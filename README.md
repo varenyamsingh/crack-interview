@@ -136,7 +136,7 @@ The app will run at: `http://localhost:5173`
 
 ## 🔗 Live Preview
 
-🌍 [**Click here to view the live demo**](################)
+🌍 [**Click here to view the live demo**](#######)
 
 ---
 
